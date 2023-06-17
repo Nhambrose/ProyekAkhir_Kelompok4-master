@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "776368120960",
+    "firebase_url": "https://projectpam-521c6-default-rtdb.firebaseio.com",
+    "project_id": "projectpam-521c6",
+    "storage_bucket": "pr ojectpam-521c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776368120960:android:8cec52389fae0dc4247265",
+        "android_client_info": {
+          "package_name": "com.example.proyekakhir_kelompok4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpoZvi9ay1cTzQY6mnvKDDYgOfs0icN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776368120960:android:89341c45af48f764247265",
+        "android_client_info": {
+          "package_name": "com.example.tugasakhirpam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBpoZvi9ay1cTzQY6mnvKDDYgOfs0icN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
