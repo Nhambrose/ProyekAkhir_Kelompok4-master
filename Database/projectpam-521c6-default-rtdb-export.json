@@ -1,0 +1,282 @@
+{
+  "adventure": [
+    {
+      "deskripsi": "Agustinus Wibowo1",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/adventure_titiknol.png?alt=media&token=5e78c96f-e3b5-44f2-8ceb-f249420faedd&_gl=1*nyauhc*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjY4MTAuMC4wLjA.",
+      "harga": "Rp 130.000",
+      "nama": "Titik Nol",
+      "rating": 4,
+      "type": "adventure"
+    },
+    {
+      "deskripsi": "Antoine de Saint Exupery",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/adventure_pangerancilik.png?alt=media&token=3c6616f5-7d2e-4911-90aa-1f63d15daf0b&_gl=1*115gl9x*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjY3MjUuMC4wLjA.",
+      "harga": "Rp 58.000",
+      "nama": "Pangeran Cilik: Le Petit Prince",
+      "rating": 4,
+      "type": "adventure"
+    },
+    {
+      "deskripsi": "Hendri Teja",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/adventure_tansebuahnovel.png?alt=media&token=355678c6-6438-4699-85df-020a79215fea&_gl=1*1e8anms*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjY3ODguMC4wLjA.",
+      "harga": "Rp 71.000",
+      "nama": "Tan : Sebuah Novel",
+      "rating": 4,
+      "type": "adventure"
+    },
+    {
+      "deskripsi": "Zaki Yamani",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/adventure_perjalananmustahilsamiamdarilisboa.png?alt=media&token=f21e98fd-cca5-4953-bd2a-a10d9616c35f&_gl=1*1m7q2g3*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjY3NTIuMC4wLjA.",
+      "harga": "Rp 97.000",
+      "nama": "Perjalanan Mustahil dari Lisboa",
+      "rating": 4,
+      "type": "adventure"
+    },
+    {
+      "deskripsi": "Fiersa Besari",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/adventure_arahlangkah.png?alt=media&token=a8904e80-b214-42a6-8631-0b358ecea96e&_gl=1*1yfoia7*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjY2NDkuMC4wLjA.",
+      "harga": "Rp 88.000",
+      "nama": "Arah Langkah",
+      "rating": 5,
+      "type": "adventure"
+    },
+    {
+      "deskripsi": "Paulo Coelho",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/adventure_sangalkemis.png?alt=media&token=264ff64e-d48b-4bd7-9b9b-af3e396243c9&_gl=1*6d8d6u*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjY3NzAuMC4wLjA.",
+      "harga": "Rp 65.000",
+      "nama": "Sang Alkemis",
+      "rating": 4,
+      "type": "adventure"
+    },
+    {
+      "deskripsi": "Amin Maalouf",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/adventure_mencarinamatuhanyangkeseratus.png?alt=media&token=c7d2973d-9a0e-485c-8e9c-46c9d8ed0564&_gl=1*njm9uq*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjY2ODMuMC4wLjA.",
+      "harga": "Rp 120.000",
+      "nama": "Mencari Nama Tuhan yang Keseratus",
+      "rating": 4,
+      "type": "adventure"
+    },
+    {
+      "deskripsi": "Donny Dhirgantoro",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/adventure85cm.png?alt=media&token=e8b29e62-52b3-4208-b267-6c19a16ba406&_gl=1*1mozpwx*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjY1ODYuMC4wLjA.",
+      "harga": "Rp 150.000",
+      "nama": "5 cm: Aku, Kamu, Samudera, dan Bintang-Bintang",
+      "rating": 5,
+      "type": "adventure"
+    }
+  ],
+  "anime": [
+    {
+      "deskripsi": "Abdul Kadir",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/anime_deathnote.png?alt=media&token=fffd8641-f388-4cd6-a7d4-3e7e4bc9da51&_gl=1*b38yqt*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjY5NTIuMC4wLjA.",
+      "harga": "Rp 39.000",
+      "nama": "Death Note Short Stories",
+      "rating": 5,
+      "type": "anime"
+    },
+    {
+      "deskripsi": "Muneyuki Kaneshiro dan Yusuke Nomura",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/anime_bluelock.png?alt=media&token=fcfe629f-149c-4c44-96fb-bfbb6658e141&_gl=1*1bkc8q5*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjY5NzcuMC4wLjA.",
+      "harga": "Rp 40.000",
+      "nama": "Blue Lock 01",
+      "rating": 5,
+      "type": "anime"
+    },
+    {
+      "deskripsi": "Ken Wakui",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/anime_tokyorevengers.jpg?alt=media&token=aff4bd74-447b-41a3-9bc8-bcec5ea5ac79&_gl=1*125byc4*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjcwNDYuMC4wLjA.",
+      "harga": "Rp 35.000",
+      "nama": "Tokyo Revengers 01",
+      "rating": 4,
+      "type": "education"
+    },
+    {
+      "deskripsi": "Hiroyuki Takei",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/anime_shamanking.png?alt=media&token=d1921f8d-2b35-4ec1-825c-78531d039ed6&_gl=1*j0hzo1*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjcwMzIuMC4wLjA.",
+      "harga": "Rp 45.000",
+      "nama": "Shaman King Complete Edition 03",
+      "rating": 5,
+      "type": "education"
+    }
+  ],
+  "dataRegister": {
+    "1Gc3gq8ngwUwXLR0y2fzuhSNxyo1": {
+      "username": "tesnafihelmi"
+    },
+    "6xpwxtLb39XpHV7jILtuTgQBL973": {
+      "username": "testestes"
+    },
+    "7CN81CEtHmeIZNLlegP49D6hezL2": {
+      "username": "tesbackregis"
+    },
+    "7FKn25tRPyTzpNQ13NsIQ3UUewJ2": {
+      "username": "set2"
+    },
+    "FM67yt08qMUoX86o8OolIGWWMly1": {
+      "username": "tesbackregister"
+    },
+    "FcRiX8HzROS0SvEZ6w9mNS0NSje2": {
+      "username": "helmi111"
+    },
+    "OTTquSRvs0R3fbd52BfU0O4lxfT2": {
+      "fakultas": "aaa",
+      "nim": "123123",
+      "prodi": "helehl",
+      "username": "hellmi"
+    },
+    "QPE6ps9pZqPNPtR4CaumTQaxt3n2": {
+      "username": "nafi"
+    },
+    "jiX20PW1wsbH5ffNA6MEVBkjU5y2": {
+      "fakultas": "ffff",
+      "nim": "1114",
+      "prodi": "aaa1",
+      "username": "tes123"
+    },
+    "puNcRlkw66YH5q2kP8CV1YpMuMg1": {
+      "fakultas": "ilmu komputer",
+      "nim": "111",
+      "prodi": "teknologi informassi",
+      "username": "tespam"
+    },
+    "v0z70m8YiJV6IrWDtJYtMkcicPA3": {
+      "fakultas": "ccc",
+      "nim": "1111",
+      "prodi": "aaa",
+      "username": "tes12233"
+    },
+    "x9x0nu28OXPfGNtuBnuaHEv2Px92": {
+      "fakultas": "FILKOM",
+      "nim": "225150709111005",
+      "prodi": "TI",
+      "username": "aliya"
+    },
+    "yfTIaqERcvhuiEYriWjkwBFeeF63": {
+      "username": "teshelmi"
+    }
+  },
+  "education": [
+    {
+      "deskripsi": "Jubilee Enterprise",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/edukasi_html5danphp.png?alt=media&token=18033088-da6e-49e3-90b6-f97e486b5030&_gl=1*1rdxka1*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjcxNDMuMC4wLjA.",
+      "harga": "Rp 49.000",
+      "nama": "Html 5 & Php",
+      "rating": 4,
+      "type": "education"
+    },
+    {
+      "deskripsi": "Wenty Dwi Yuniarti",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/edukasi_dasarpemrogramandenganphyton.png?alt=media&token=e42d7dd4-d008-4495-b364-c18e4737707f&_gl=1*w1nhsk*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjcxMjUuMC4wLjA.",
+      "harga": "Rp 79.000",
+      "nama": "Dasar-Dasar Pemrograman dengan Python",
+      "rating": 4,
+      "type": "education"
+    },
+    {
+      "deskripsi": "Febri Asiani",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/edukasi_bukupersuasive.png?alt=media&token=82025f5a-e48a-4805-bb4f-efa8e5e8532f&_gl=1*1dypz3j*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjcwOTkuMC4wLjA.",
+      "harga": "Rp 100.000",
+      "nama": "Buku Persuasive Copywriting: Sebuah Seni Menjual Melalui Tulisan (2020)",
+      "rating": 4,
+      "type": "education"
+    },
+    {
+      "deskripsi": "Elizabeth Tweedale",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/edukasi_belajarcoding.png?alt=media&token=7cbde2ff-3d45-412d-9db7-33ef58175b54&_gl=1*1lf5omg*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjcwNzEuMC4wLjA.",
+      "harga": "Rp 40.000",
+      "nama": "Belajar Coding: Algoritma Dan Bug",
+      "rating": 5,
+      "type": "education"
+    },
+    {
+      "deskripsi": "Al-Faiz",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/edukasi_privatalfaiz.png?alt=media&token=c071b60a-0a6e-4d54-ae9f-04d1972633e3&_gl=1*lar3nd*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjcyMTMuMC4wLjA.",
+      "harga": "Rp 123.250",
+      "nama": "Privat Al Faiz Sukses SKD CPNS 2023",
+      "rating": 5,
+      "type": "education"
+    },
+    {
+      "deskripsi": "Hanna Arini Parhusip",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/edukasi_pemrogramanphytonuntukpenangananbigdata.png?alt=media&token=fbb531d9-abe3-4dd7-b0a2-cda5a1f29ef3&_gl=1*103137v*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjcxODcuMC4wLjA.",
+      "harga": "Rp 62.900",
+      "nama": "Pemrograman Python untuk Penanganan Big Data",
+      "rating": 5,
+      "type": "education"
+    },
+    {
+      "deskripsi": "Abdul Kadir",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/edukasi_logikapemrogramanjava.png?alt=media&token=06983989-c68c-4535-be39-1ba5336fe4c3&_gl=1*1djp6f8*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjcxNjYuMC4wLjA.",
+      "harga": "Rp 49.000",
+      "nama": "Logika Pemrograman Java",
+      "rating": 5,
+      "type": "education"
+    }
+  ],
+  "horror": [
+    {
+      "deskripsi": "Akiyoshi Rikako",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/horror_holymother.png?alt=media&token=e238e3b3-8c50-4d4a-a645-b405d52b2a2c&_gl=1*1uiz1dy*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjcyMzEuMC4wLjA.",
+      "harga": "Rp 85.000",
+      "nama": "Holy Mother",
+      "rating": 4,
+      "type": "horror"
+    },
+    {
+      "deskripsi": "Daniel Ahmad",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/horror_pestabunuhdiri.png?alt=media&token=c230142f-8370-4dbd-b9da-c4d2366b159b&_gl=1*1d9imcw*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjczMjYuMC4wLjA.",
+      "harga": "Rp 99.000",
+      "nama": "Pesta Bunuh Diri",
+      "rating": 5,
+      "type": "horror"
+    },
+    {
+      "deskripsi": "Risa Saraswati",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/horror_jurnalrisa.png?alt=media&token=47549fc7-b865-4219-8699-0d29bced805b&_gl=1*4pw26t*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjcyNjUuMC4wLjA.",
+      "harga": "Rp 82.000",
+      "nama": "Jurnal Risa: Teror Liburan Sekolah",
+      "rating": 4,
+      "type": "horror"
+    },
+    {
+      "deskripsi": "Tere Liye",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/horror_sesuk.png?alt=media&token=6c9f2bcf-8ead-4e3d-9b9d-b6017a2e61a3&_gl=1*wyaiiz*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjczNDYuMC4wLjA.",
+      "harga": "Rp 99.000",
+      "nama": "Sesuk",
+      "rating": 5,
+      "type": "horror"
+    },
+    {
+      "deskripsi": "Simpleman",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/horror_sewudino.png?alt=media&token=2e87a817-8119-427b-9808-8e6dd90b7345&_gl=1*111saya*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjczNjIuMC4wLjA.",
+      "harga": "Rp 82.500",
+      "nama": "Sewu Dino",
+      "rating": 4,
+      "type": "horror"
+    },
+    {
+      "deskripsi": "@kisahjanahjawa",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/horror_kisahtanahjawapocong.png?alt=media&token=3757320f-8fe7-4332-ad00-09e8536401b5&_gl=1*2lplyc*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjczMDkuMC4wLjA.",
+      "harga": "Rp 82.500",
+      "nama": "Kisah Tanah Jawa: Pocong Gundul",
+      "rating": 5,
+      "type": "horror"
+    },
+    {
+      "deskripsi": "Bonaventura Genta",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/horror_keluargatakkasatmata.png?alt=media&token=630db76b-a65a-4f6b-bc4d-c149376ef6ee&_gl=1*ihzqnv*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjcyODguMC4wLjA.",
+      "harga": "Rp 55.000",
+      "nama": "Keluarga Tak Kasat Mata",
+      "rating": 5,
+      "type": "horror"
+    },
+    {
+      "deskripsi": "Sara Wijayanto",
+      "gambar": "https://firebasestorage.googleapis.com/v0/b/projectpam-521c6.appspot.com/o/horror_wingit.png?alt=media&token=8da3cb5d-a23d-4eaf-95f8-437b40483730&_gl=1*1lz6wxu*_ga*MTkyMjQwODI3MC4xNjg1ODc4Mzk5*_ga_CW55HF8NVT*MTY4NjIyNjQ2My4xNi4xLjE2ODYyMjczODEuMC4wLjA.",
+      "harga": "Rp 100.000",
+      "nama": "Wingit",
+      "rating": 5,
+      "type": "horror"
+    }
+  ]
+}

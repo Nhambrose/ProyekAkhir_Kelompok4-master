@@ -151,7 +151,7 @@ public class ProfileActivity extends AppCompatActivity {
                     @Override
                     public void onSuccess(UploadTask.TaskSnapshot taskSnapshot) {
                         pd.dismiss();
-                        Toast.makeText(getApplicationContext(), "Image Success Uploaded",
+                        Toast.makeText(getApplicationContext(), "Image Uploaded",
                                 Toast.LENGTH_LONG).show();
                     }
                 })
@@ -159,7 +159,7 @@ public class ProfileActivity extends AppCompatActivity {
                     @Override
                     public void onFailure(@NonNull Exception e) {
                         pd.dismiss();
-                        Toast.makeText(getApplicationContext(), "Failed Uploaded",
+                        Toast.makeText(getApplicationContext(), "Failed to Upload",
                                 Toast.LENGTH_LONG).show();
                     }
                 })
